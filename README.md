@@ -20,9 +20,6 @@ Or install it yourself as:
 
     $ gem install toy_robot
 
-## Usage
-
-TODO: Write usage instructions here
 
 ## Development
 
@@ -32,7 +29,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/toy_robot.
+Bug reports and pull requests are welcome on GitHub at https://github.com/joshteperman/toy_robot.
 
 ## License
 
